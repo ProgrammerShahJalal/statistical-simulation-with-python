@@ -1,3 +1,3 @@
 # statistical-simulation-with-python
 
-[STAT-207_compressed.pdf](https://github.com/ProgrammerShahJalal/statistical-simulation-with-python/files/10203867/STAT-207_compressed.pdf)
+https://drive.google.com/file/d/1je1MGUgrjrQ-1OmYM9X5O7qIfGFe9OD8/view?usp=sharing
